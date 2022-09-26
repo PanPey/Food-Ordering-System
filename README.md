@@ -1,3 +1,3 @@
 # Food-Ordering-System
 
-A simple MEAN stack based full stack web application.
+A full stack web application created using MEAN stack.
